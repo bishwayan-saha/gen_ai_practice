@@ -1,0 +1,8 @@
+_pycache_/
+.env/
+venv/
+docs
+models
+practice/4.rag/db
+practice/4.rag/docs
+chat_with_website/chroma
