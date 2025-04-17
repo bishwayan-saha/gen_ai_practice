@@ -1,5 +1,5 @@
 _pycache_/
-.env/
+.env
 venv/
 docs
 models
